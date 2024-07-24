@@ -41,7 +41,7 @@
 
 I use the wonderful [Unity Resource Pack](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10) when I play Minecraft.
 
-Contributions seem to have slowed on the version of the pack for Minecraft 1.7.10. As I play with this version of the game, I have made several contributions. They are contained here so that others may use them while CyanideX decides whether to include them in the pack.
+Contributions seem to have slowed on the version of the pack for Minecraft 1.7.10. As I have been playing with this version of the game, I have made several contributions. They are contained here so that others may use them while CyanideX decides whether to include them in the pack.
 
 ## Using this pack
 
