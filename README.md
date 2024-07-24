@@ -59,7 +59,6 @@ If changes are implemented in Unity, they will be removed from this pack.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<https://github.com/ScottKillen/MC-Unity-1.7.10-Supplemental>
 [contributors-shield]: <https://img.shields.io/github/contributors/ScottKillen/MC-Unity-1.7.10-Supplemental.svg?style=for-the-badge>
 [contributors-url]: <https://github.com/ScottKillen/MC-Unity-1.7.10-Supplemental/graphs/contributors>
 [forks-shield]: <https://img.shields.io/github/forks/ScottKillen/MC-Unity-1.7.10-Supplemental.svg?style=for-the-badge>
