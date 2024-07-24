@@ -39,13 +39,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I use the wonderful [Unity Resource Pack](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10) when I play Minecraft.
+I use the wonderful [Unity Resource Pack][unity-url] when I play Minecraft.
 
 Contributions seem to have slowed on the version of the pack for Minecraft 1.7.10. As I have been playing with this version of the game, I have made several contributions. They are contained here so that others may use them while CyanideX decides whether to include them in the pack.
 
 ## Using this pack
 
-- Simply install this pack above Unity in Minecraft's resourcepack settings.
+1. Download the pack [here][latest-release-url].
+1. Place the downloaded `.zip` file in Minecraft's resourcepack folder.
+1. Install this pack above Unity in Minecraft's resourcepack settings.
 
 ## Contributions
 
@@ -59,6 +61,8 @@ If changes are implemented in Unity, they will be removed from this pack.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[latest-release-url]: <https://github.com/ScottKillen/MC-Unity-1.7.10-Supplemental/releases/latest>
+[unity-url]: <https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10>
 [contributors-shield]: <https://img.shields.io/github/contributors/ScottKillen/MC-Unity-1.7.10-Supplemental.svg?style=for-the-badge>
 [contributors-url]: <https://github.com/ScottKillen/MC-Unity-1.7.10-Supplemental/graphs/contributors>
 [forks-shield]: <https://img.shields.io/github/forks/ScottKillen/MC-Unity-1.7.10-Supplemental.svg?style=for-the-badge>
